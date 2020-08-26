@@ -1,0 +1,38 @@
+body{
+	background:#292b29;
+}
+
+h4{
+	color:#1fde4c;
+}
+
+li{
+	color:#05f7d3;
+}
+
+h1{
+	color:#59ff59;
+}
+
+li a{
+	color:#b6fab6;
+}
+
+h4{
+	border:3px solid #5632a8;
+	display:inline
+}
+
+ul + a{
+	color:#1256c4;
+}
+
+a:hover{
+	color:purple;
+}
+
+.info:hover{
+	color:#11ff00;
+	
+}
+
